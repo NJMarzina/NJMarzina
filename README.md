@@ -1,6 +1,7 @@
 [![Issues](https://img.shields.io/github/issues/NJMarzina/NJMarzina)](https://github.com/NJMarzina/NJMarzina/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/NJMarzina/NJMarzina)](https://github.com/NJMarzina/NJMarzina/pulls)
 [![License](https://img.shields.io/github/license/NJMarzina/NJMarzina)](https://github.com/NJMarzina/NJMarzina/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/NJMarzina/NJMarzina?style=social)](https://github.com/NJMarzina/NJMarzina/stargazers)
 
 Hey there 👋
 Welcome to my GitHub profile! Here's a little bit about me and what I'm working on:
