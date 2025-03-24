@@ -5,15 +5,15 @@ Welcome to my GitHub profile! Here's a little bit about me and what I'm working 
 
 🌱 Currently learning: Supabase, Git
 
-🤝 Looking to collaborate on: [Your idea here]
+<!--🤝 Looking to collaborate on: [Your idea here]
 
-🧠 Seeking help with: [Your topic here]
+🧠 Seeking help with: [Your topic here]-->
 
 💬 Ask me about: Kendama, Minecraft, Breaking Bad Universe, Severance, WWE
 
 📬 Reach me at: NJMarzina@gmail.com
 
-😄 Pronouns: he/him
+<!--😄 Pronouns: he/him-->
 
 ⚡ Fun fact: I am a triplet!
 
