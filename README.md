@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NJMarzina)](https://github.com/NJMarzina/github-readme-stats)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=njmarzina&count={5})
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=njmarzina)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
