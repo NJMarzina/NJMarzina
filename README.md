@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I am a triplet!
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NJMarzina)](https://github.com/NJMarzina/github-readme-stats)
