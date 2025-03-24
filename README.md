@@ -1,27 +1,33 @@
-## Hi there 👋
+Hey there 👋
+Welcome to my GitHub profile! Here's a little bit about me and what I'm working on:
 
-<!--
-**NJMarzina/NJMarzina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently working on: WannaBet (repo is currently private, but will be made public soon)
 
-Here are some ideas to get you started:
+🌱 Currently learning: Supabase, Git
 
-- 🔭 I’m currently working on ... WannaBet, repo is currently private, will make public soon
-- 🌱 I’m currently learning ... Supabase, git
-- 👯 I’m looking to collaborate on ... [x]
-- 🤔 I’m looking for help with ... [x]
-- 💬 Ask me about ... Kendama, Minecraft, Breaking Bad Universe, Severance, WWE
-- 📫 How to reach me: ... NJMarzina@gmail.com
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I am a triplet!
--->
+🤝 Looking to collaborate on: [Your idea here]
+
+🧠 Seeking help with: [Your topic here]
+
+💬 Ask me about: Kendama, Minecraft, Breaking Bad Universe, Severance, WWE
+
+📬 Reach me at: NJMarzina@gmail.com
+
+😄 Pronouns: he/him
+
+⚡ Fun fact: I am a triplet!
+
+🧑‍💻 Top Languages:<br /> <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NJMarzina)](https://github.com/NJMarzina/github-readme-stats)
 
+🎧 What I'm listening to right now:<br /> <br />
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=njmarzina)
 
-<h3 align="left">Connect with me:</h3>
+📱 Connect with me:
 <p align="left">
-<a href="https://www.x.com/OhMarzy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/nathan-marzina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/NathanMarzy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
+<a href="https://www.x.com/OhMarzy" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" />
+<a href="https://www.linkedin.com/nathan-marzina" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+<a href="https://www.instagram.com/NathanMarzy" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+<a href="your link" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="30" width="40" />
+</p> <br />
+I’m always open to connecting, collaborating, or just chatting about the things I love!
