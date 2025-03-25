@@ -26,10 +26,25 @@ Welcome to my GitHub profile! Here's a little bit about me and what I'm working 
 
 ⚡ Fun fact: I am a triplet!
 
-🧑‍💻 Top Languages:<br /> <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NJMarzina)](https://github.com/NJMarzina/github-readme-stats)
 
-🎧 What I'm listening to right now:<br /> <br />
+🧑‍💻 **Top Languages & GitHub Stats:**<br />
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/NJMarzina/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NJMarzina&layout=donut" alt="Top Languages" height="200">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/NJMarzina/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=NJMarzina" alt="GitHub Stats" height="200">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+🎧 **What I'm listening to right now:**<br /> <br />
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=njmarzina)
 
 I’m always open to connecting, collaborating, or just chatting about the things I love!
