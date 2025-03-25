@@ -10,7 +10,7 @@
 Hey there 👋
 Welcome to my GitHub profile! Here's a little bit about me and what I'm working on:
 
-🔭 Currently working on: WannaBet (repo is currently private, but will be made public soon)
+🔭 Currently working on: WannaBet (check the repo)
 
 🌱 Currently learning: Supabase, Git
 
