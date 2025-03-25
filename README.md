@@ -20,7 +20,7 @@ Welcome to my GitHub profile! Here's a little bit about me and what I'm working 
 
 💬 Ask me about: Kendama, Minecraft, Breaking Bad Universe, Severance, WWE
 
-📬 Reach me at: NJMarzina@gmail.com
+📬 Reach me at: OhMarzy23@gmail.com
 
 <!--😄 Pronouns: he/him-->
 
