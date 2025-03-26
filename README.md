@@ -41,11 +41,11 @@ Welcome to my GitHub profile! Here's a little bit about me and what I'm working 
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NJMarzina&layout=donut" alt="Top Languages" height="200">
       </a>
     </td>
-    <td>
+  <!--  <td>
       <a href="https://github.com/NJMarzina/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=NJMarzina" alt="GitHub Stats" height="200">
-      </a>
-    </td>
+      </a> 
+    </td>-->
   </tr>
 </table>
 
