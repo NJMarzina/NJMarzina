@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Here's a little bit about me and what I'm working 
   <img src="https://img.shields.io/badge/Open%20Login%20Page-blue?style=for-the-badge&logo=appveyor" alt="Open Login Page"/>
 </a>
 
-🌱 Currently learning: Supabase, Git
+🌱 Currently learning: Supabase, Git, Azure, C#/,dotnet, Python
 
 <!--🤝 Looking to collaborate on: [Your idea here]
 
@@ -49,6 +49,7 @@ Welcome to my GitHub profile! Here's a little bit about me and what I'm working 
 🎧 **What I'm listening to right now:**<br /> <br />
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=njmarzina)
 
-I’m always open to connecting, collaborating, or just chatting about the things I love! <br />
+<br />
 Heres a link to my CIS-3342 index: https://cis-iis2.temple.edu/Fall2024/CIS3342_tun25917 <br />
+<br />
 Wanna give me a job? Heres my [Resume](./Nathan-Marzina-Resume-2025-Updated.docx)
