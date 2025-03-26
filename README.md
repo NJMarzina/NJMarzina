@@ -9,7 +9,10 @@
 Hey there 👋
 Welcome to my GitHub profile! Here's a little bit about me and what I'm working on:
 
-🔭 Currently working on: WannaBet [![Netlify Status](https://api.netlify.com/api/v1/badges/51aed90f-d7dc-402b-b07c-3dedb0d7dba1/deploy-status)](https://app.netlify.com/sites/doyouwannabet/deploys)
+🔭 Currently working on: WannaBet <br />
+<a href="https://wannabet-apczh6bmfbfvfef8.centralus-01.azurewebsites.net/WBLogin.aspx" target="_blank">
+  <img src="https://img.shields.io/badge/Open%20Login%20Page-blue?style=for-the-badge&logo=appveyor" alt="Open Login Page"/>
+</a>
 
 🌱 Currently learning: Supabase, Git
 
