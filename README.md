@@ -6,11 +6,10 @@
 ![x @ OhMarzy](https://img.shields.io/badge/x%20%40%20OhMarzy-blue)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%40nathan--marzina--2148091ba-blue?logo=linkedin&logoColor=white)
 
-
 Hey there 👋
 Welcome to my GitHub profile! Here's a little bit about me and what I'm working on:
 
-🔭 Currently working on: WannaBet (check the repo)
+🔭 Currently working on: WannaBet [![Netlify Status](https://api.netlify.com/api/v1/badges/51aed90f-d7dc-402b-b07c-3dedb0d7dba1/deploy-status)](https://app.netlify.com/sites/doyouwannabet/deploys)
 
 🌱 Currently learning: Supabase, Git
 
