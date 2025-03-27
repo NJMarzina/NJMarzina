@@ -56,4 +56,5 @@ Welcome to my GitHub profile! Here's a little bit about me and what I'm working 
 <br />
 Heres a link to my CIS-3342 index: https://cis-iis2.temple.edu/Fall2024/CIS3342_tun25917 <br />
 <br />
-Wanna give me a job? Heres my [Resume](./Nathan-Marzina-Resume-2025-Updated.docx)
+Wanna give me a job? [Here's my resume](https://github.com/NJMarzina/NJMarzina/raw/main/Nathan-Marzina-Resume-2025-Updated.docx)
+
