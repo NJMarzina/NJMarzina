@@ -57,4 +57,14 @@ Welcome to my GitHub profile! Here's a little bit about me and what I'm working 
 <br />
 Heres a link to my CIS-3342 index: https://cis-iis2.temple.edu/Fall2024/CIS3342_tun25917 <br />
 <br />
-Wanna give me a job? [Here's my resume](https://github.com/NJMarzina/NJMarzina/raw/main/Nathan-Marzina-Resume-2025-Updated.docx)
+Wanna give me a job? Heres my [resume](https://github.com/NJMarzina/NJMarzina/raw/main/Nathan-Marzina-Resume-2025-Updated.docx). <br />
+
+# My LeetCode Progress
+
+![LeetCode Easy Problems](https://img.shields.io/badge/LeetCode%20Easy%20Problems-1%20solved-green?style=flat-square)
+![LeetCode Medium Problems](https://img.shields.io/badge/LeetCode%20Medium%20Problems-0%20solved-orange?style=flat-square)
+![LeetCode Hard Problems](https://img.shields.io/badge/LeetCode%20Hard%20Problems-0%20solved-red?style=flat-square) <br />
+- LeetCode studies began 3/28/2025 @ 3AM.. go easy on me <br />
+
+Check out my progress on [LeetCode](https://leetcode.com/OhMarzy/).
+
