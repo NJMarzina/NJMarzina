@@ -16,7 +16,7 @@ Welcome to my GitHub profile! Here's a little bit about me and what I'm working 
 🔭 Currently working on: WannaBet <a href="https://wannabet-apczh6bmfbfvfef8.centralus-01.azurewebsites.net/WBLogin.aspx" target="_blank">
   <img src="https://img.shields.io/badge/Open%20Login%20Page-blue?style=for-the-badge&logo=appveyor" alt="Open Login Page"/>
 </a> <br />
-- Pyttsburgh: a repo containing 50 python projects in 50 days. We have completed day [2]. <br />
+- Pyttsburgh: a repo containing 50 python projects in 50 days. We have completed app [3]. <br />
 
 
 🌱 Currently learning: Supabase, Git, Azure, C#/,dotnet, Python
