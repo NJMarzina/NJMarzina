@@ -8,7 +8,7 @@
 [![Stars](https://img.shields.io/github/stars/NJMarzina/NJMarzina?style=social)](https://github.com/NJMarzina/NJMarzina/stargazers)
 
 ![x @ OhMarzy](https://img.shields.io/badge/x%20%40%20OhMarzy-blue)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%40nathan--marzina--2148091ba-blue?logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%40nathan--marzina-blue?logo=linkedin&logoColor=white)
 
 Hey there 👋
 Welcome to my GitHub profile! Here's a little bit about me and what I'm working on:
