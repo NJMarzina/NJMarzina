@@ -1,11 +1,11 @@
 # ![Heading Image](https://s.yimg.com/ny/api/res/1.2/8H4aJLGejP1obTkZnKOIWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTMyMA--/https://media.zenfs.com/en/ny_post_articles_869/db6714712564fe5ee18affaf865f629b)
 
 
-
+<!--
 [![Issues](https://img.shields.io/github/issues/NJMarzina/NJMarzina)](https://github.com/NJMarzina/NJMarzina/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/NJMarzina/NJMarzina)](https://github.com/NJMarzina/NJMarzina/pulls)
 [![License](https://img.shields.io/github/license/NJMarzina/NJMarzina)](https://github.com/NJMarzina/NJMarzina/blob/main/LICENSE)
-[![Stars](https://img.shields.io/github/stars/NJMarzina/NJMarzina?style=social)](https://github.com/NJMarzina/NJMarzina/stargazers)
+[![Stars](https://img.shields.io/github/stars/NJMarzina/NJMarzina?style=social)](https://github.com/NJMarzina/NJMarzina/stargazers) -->
 
 ![x @ OhMarzy](https://img.shields.io/badge/x%20%40%20OhMarzy-blue)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%40nathan--marzina-blue?logo=linkedin&logoColor=white)
@@ -58,6 +58,8 @@ Welcome to my GitHub profile! Here's a little bit about me and what I'm working 
 Heres a link to my CIS-3342 index: https://cis-iis2.temple.edu/Fall2024/CIS3342_tun25917 <br />
 <br />
 Wanna give me a job? Heres my [resume](https://github.com/NJMarzina/NJMarzina/raw/main/Nathan-Marzina-Resume-2025-Updated.docx). <br />
+
+<!-- https://github.com/supabase-community/supabase-csharp/issues/186#issuecomment-2774288560 -->
 
 # My LeetCode Progress
 
