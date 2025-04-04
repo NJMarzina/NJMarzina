@@ -63,8 +63,8 @@ Wanna give me a job? Heres my [resume](https://github.com/NJMarzina/NJMarzina/ra
 
 # My LeetCode Progress
 
-![LeetCode Easy Problems](https://img.shields.io/badge/LeetCode%20Easy%20Problems-3%20solved-green?style=flat-square)
-![LeetCode Medium Problems](https://img.shields.io/badge/LeetCode%20Medium%20Problems-2%20solved-orange?style=flat-square)
+![LeetCode Easy Problems](https://img.shields.io/badge/LeetCode%20Easy%20Problems-5%20solved-green?style=flat-square)
+![LeetCode Medium Problems](https://img.shields.io/badge/LeetCode%20Medium%20Problems-3%20solved-orange?style=flat-square)
 ![LeetCode Hard Problems](https://img.shields.io/badge/LeetCode%20Hard%20Problems-0%20solved-red?style=flat-square) <br />
 - LeetCode studies began 3/28/2025 @ 3AM.. go easy on me <br />
 
