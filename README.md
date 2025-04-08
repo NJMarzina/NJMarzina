@@ -13,7 +13,8 @@
 Hey there 👋
 Welcome to my GitHub profile! Here's a little bit about me and what I'm working on::
 
-🔭 Currently working on: Wanna Bet <a href="https://wannabet-apczh6bmfbfvfef8.centralus-01.azurewebsites.net/WBLogin.aspx" target="_blank">
+🔭 Currently working on: <br />
+- Wanna Bet <a href="https://wannabet-apczh6bmfbfvfef8.centralus-01.azurewebsites.net/WBLogin.aspx" target="_blank">
   <img src="https://img.shields.io/badge/Open%20Login%20Page-blue?style=for-the-badge&logo=appveyor" alt="Open Login Page"/>
 </a> <br />
 - Pyttsburgh: a repo containing 50 python projects. We have completed app [3]. <br />
@@ -66,7 +67,6 @@ Wanna give me a job? Heres my [resume](https://github.com/NJMarzina/NJMarzina/ra
 ![LeetCode Easy Problems](https://img.shields.io/badge/LeetCode%20Easy%20Problems-5%20solved-green?style=flat-square)
 ![LeetCode Medium Problems](https://img.shields.io/badge/LeetCode%20Medium%20Problems-3%20solved-orange?style=flat-square)
 ![LeetCode Hard Problems](https://img.shields.io/badge/LeetCode%20Hard%20Problems-0%20solved-red?style=flat-square) <br />
-- LeetCode studies began 3/28/2025 @ 3AM.. go easy on me <br />
 
 Check out my progress on [LeetCode](https://leetcode.com/OhMarzy/).
 
