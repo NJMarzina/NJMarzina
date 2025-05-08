@@ -17,10 +17,8 @@ Welcome to my GitHub profile! Here's a little bit about me and what I'm working 
 - Wanna Bet <a href="https://wannabet-apczh6bmfbfvfef8.centralus-01.azurewebsites.net/WBLogin.aspx" target="_blank">
   <img src="https://img.shields.io/badge/Open%20Login%20Page-blue?style=for-the-badge&logo=appveyor" alt="Open Login Page"/>
 </a> <br />
-- Pyttsburgh: a repo containing 50 python projects. We have completed app [3]. <br />
 
-
-🌱 Currently learning: Supabase, Git, Azure, C#/,dotnet, Python
+🌱 Currently learning: Supabase, Git, Azure, C#/,dotnet, Python, C++, Linux
 
 <!--🤝 Looking to collaborate on: [Your idea here]
 
@@ -61,12 +59,3 @@ Heres a link to my CIS-3342 index: https://cis-iis2.temple.edu/Fall2024/CIS3342_
 Wanna give me a job? Heres my [resume](https://github.com/NJMarzina/NJMarzina/raw/main/Nathan-Marzina-Resume-2025-Updated.docx). <br />
 
 <!-- https://github.com/supabase-community/supabase-csharp/issues/186#issuecomment-2774288560 -->
-
-# My LeetCode Progress
-
-![LeetCode Easy Problems](https://img.shields.io/badge/LeetCode%20Easy%20Problems-5%20solved-green?style=flat-square)
-![LeetCode Medium Problems](https://img.shields.io/badge/LeetCode%20Medium%20Problems-3%20solved-orange?style=flat-square)
-![LeetCode Hard Problems](https://img.shields.io/badge/LeetCode%20Hard%20Problems-0%20solved-red?style=flat-square) <br />
-
-Check out my progress on [LeetCode](https://leetcode.com/OhMarzy/).
-
