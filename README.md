@@ -18,7 +18,7 @@ Welcome to my GitHub profile! Here's a little bit about me and what I'm working 
   <img src="https://img.shields.io/badge/Open%20Login%20Page-blue?style=for-the-badge&logo=appveyor" alt="Open Login Page"/>
 </a> <br />
 
-🌱 Currently learning: Python, Linux Terminal, Git, Azure, C#/,dotnet, C++, TypeScript, Firebase
+🌱 Currently learning: LOVE2d/Lua
 
 <!--🤝 Looking to collaborate on: [Your idea here]
 
